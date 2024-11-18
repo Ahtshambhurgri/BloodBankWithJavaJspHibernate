@@ -4,7 +4,7 @@ Iam Ahtsham From Pakistan I Want to be Java Backend Developer I am beginner so t
 Description of project :I used Hiberante Servlets and Jsp Frontend Completely on bootstrap 
 If You Want To Run this project You need this Thing:
 1.JDk Version 20 or higher
-2.IDE (Eclipse , NetBeans,Intelij Idea Devloper version) (Prefered IDE Eclipse)
+2.IDE (Eclipse , NetBeans,Intelij Idea Not Community) (Prefered IDE Eclipse)
 3.MySQL Server 
 4.Use Maven Tool
 Thats Major Things you need if you got any problem 
