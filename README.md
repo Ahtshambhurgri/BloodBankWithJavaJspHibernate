@@ -6,7 +6,8 @@ If You Want To Run this project You need this Thing:
 1.JDk Version 20 or higher
 2.IDE (Eclipse , NetBeans,Intelij Idea Not Community) (Prefered IDE Eclipse)
 3.MySQL Server 
-4.Use Maven Tool
+4.Tomcat Server
+5.Use Maven Tool
 Thats Major Things you need if you got any problem 
 Then Contact me wolverine007gaming@gmail.com
 Again Thankyou
