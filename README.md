@@ -8,6 +8,6 @@ If You Want To Run this project You need this Thing:
 3.MySQL Server 
 4.Tomcat Server
 5.Use Maven Tool
-Thats Major Things you need if you got any problem 
-Then Contact me wolverine007gaming@gmail.com
+
+
 Again Thankyou
