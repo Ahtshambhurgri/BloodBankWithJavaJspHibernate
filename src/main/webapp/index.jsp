@@ -32,7 +32,7 @@
        <p>We are a leading organization that deals with blood transfusion, and in case of any emergency, our organization will provide you with the necessary assistance. If you want to help someone by donating blood, please feel free to visit us. </p>
    </div>
    <hr>
-   <!-- Carousel -->
+   <!-- Carousel 
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -58,7 +58,7 @@
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
     </a>
-</div>
+</div>-->
 
 	<div style="margin-top: 20px" class="container">
 		<h1>What is Blood Donation?</h1>
