@@ -85,7 +85,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="embed-responsive embed-responsive-16by9">
-               <!-- <iframe class="embed-responsive-item" src="video/video.mp4" ></iframe>-->
+                <iframe class="embed-responsive-item" src="video/video.mp4" ></iframe>
             </div>
         </div>
     </div>
